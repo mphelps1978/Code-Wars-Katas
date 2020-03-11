@@ -1,5 +1,5 @@
 const XO = (str) => {
-
+// Do your magic
 }
 
 console.log(XO("xxOo")); //true
